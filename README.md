@@ -9,5 +9,5 @@
 ![](https://streak-stats.demolab.com/?user=JudeCervera&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JudeCervera&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JudeCervera)
 
